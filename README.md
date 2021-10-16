@@ -187,7 +187,7 @@ python setup.py bdist_wheel
 
 ### 4.上傳到PYPI上
 
-開啟CMD，到專案資料夾下輸入指令:
+開啟CMD，到資料夾下輸入指令:
 
 ```python
 twine upload dist/*
